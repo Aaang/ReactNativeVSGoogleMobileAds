@@ -3,6 +3,9 @@
 ## About
 This repository should represent the current setup I'm using for requesting custom native ads via the iOS Google Mobile Ads SDK (7.15.0) and presenting them via React Native (0.36.0) in order to help investigating a crucial crash introduced with the Google Mobile Ads SDK.
 
+##### Related Google Developer Group Issue
+[https://groups.google.com/forum/#!category-topic/google-admob-ads-sdk/ios/UNgqhjn8VjU](https://groups.google.com/forum/#!category-topic/google-admob-ads-sdk/ios/UNgqhjn8VjU)
+
 ### Why Goole Mobile Ads?
 I'm already using the Google Mobile Ads SDK purely native in other apps and it works really well. Now we also want to show custom native ad campaigns within a React Native view.
 
